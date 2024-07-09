@@ -1,0 +1,9 @@
+AmbientNoiseData -> 40000
+FaultyMotorON_1 -> 40000
+FaultyMotorON -> 40000
+ImbalancedMotorON_1 -> 40000
+ImbalancedMotorON -> 30000
+NormalMotorOFF -> 30000
+NormalMotorON_2 -> 40000
+NormalMotorON_1 -> 30000
+NormalMotorON -> 40000
