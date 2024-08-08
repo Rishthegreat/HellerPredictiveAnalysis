@@ -7,3 +7,10 @@ NormalMotorOFF -> 30000
 NormalMotorON_2 -> 40000
 NormalMotorON_1 -> 30000
 NormalMotorON -> 40000
+
+Inside Oven (1st Mic is Mic 0)
+NormalMotorOvenSide1 -> 20000
+FaultyMotorOven3ZonesConf1 -> 20000, Faulty at Mic 0
+FaultyMotorOven3ZonesConf2Part2 -> 20000, Faulty at Mic 0
+FaultyMotorOven3Zones250mmDist -> 20000, Faulty at Mic 0
+FaultyMotorOven3Zones350mmDist -> 20000, Faulty at Mic 0

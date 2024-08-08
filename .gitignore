@@ -3,3 +3,5 @@ venv/
 .ipynb_checkpoints
 *.code-workspace
 data/
+models/
+__pycache__/
